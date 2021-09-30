@@ -24,6 +24,7 @@ export default function Footer(props) {
 
   return (
     <footer className={classes.footer}>
+      <Grid container></Grid>
         <Grid item>
         </Grid>
         <Grid item >
@@ -34,6 +35,7 @@ export default function Footer(props) {
           {description}
         </Typography>
        </Grid>
+        <Grid item></Grid>
     </footer>
   );
 }

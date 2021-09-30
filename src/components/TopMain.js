@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
     top:'2%',
-    height: '72%',
+    height: '73%',
     borderRadius: '2%',
     width:'100%',
     filter: 'saturate(20%)',
