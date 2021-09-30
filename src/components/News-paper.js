@@ -4,33 +4,38 @@ import Grid from '@material-ui/core/Grid';
 import Container from '@material-ui/core/Container';
 import Posting from './Post';
 import TopMain from './TopMain';
+import Typography from '@material-ui/core/Typography';
+
 
 const useStyles = makeStyles((theme) => ({
   mainGrid: {
     flex : 1,
   },
+  
   main:{
-    backgroundColor: '#000',
+    fontSize: "70px",
+    fontWeight: 500,
+    letterSpacing: "-0.5px",
+    lineHeight: 1,
+    height: '25%',
+    textAlign: 'justify',
   },
   containers:{
     backgroundColor: '#fff',
     marginTop: '40px',
   },
   naranja:{
-    backgroundColor: '#573A27',
     position: 'flex',
   },
   rojo:{
-    backgroundColor: '#5A8B56',
     position: 'flex',
 
   },
   azul:{
-    backgroundColor: '#567BAC',
+
     position: 'flex',
   },
   amarillo:{
-    backgroundColor: '#60A3A8',
     position: 'flex',
   }
 }));
@@ -111,13 +116,16 @@ export default function News() {
   return (
         <Container maxWidth="xl">
           <Grid container direction = 'row' spacing={3}>
+          <Grid item xs = {6}>
+            <Typography className={classes.main} >
+              {General.title.length > 150 ? (General.title.substring (0,150) + '...').toUpperCase() : General.title.toUpperCase()}
+            </Typography>
+            <TopMain post={General}></TopMain>
+          </Grid>
           <Grid item className={classes.naranja} xs ={3}>
            {Politica.map((post) => (
               <Posting posti={post}/>
             ))}
-          </Grid>
-          <Grid item xs = {6}>
-            <TopMain post={General}></TopMain>
           </Grid>
           <Grid item xs ={3} className={classes.rojo}>
            {Deporte.map((post) => (

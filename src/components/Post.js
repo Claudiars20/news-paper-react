@@ -41,7 +41,7 @@ const useStyles = makeStyles((theme) => ({
     height : '350px',
     width: '100%',
     position: 'relative',
-    backgroundColor: 'rgba(0,0,0,0.4)',
+    backgroundColor: 'rgba(0,0,0,0.0)',
     borderRadius: '2%',
     "&:hover":{
       transition: 'all 0.5s',
@@ -71,7 +71,7 @@ export default function Posting(props) {
   const { posti, tam } = props;
 
   return (
-    <a href={posti.enlace}>
+    <a href={posti.enlace} rel = "noreferrer" target="_blank">
     <Paper className={classes.FeaturedPost} style={{ backgroundImage: `url(${posti.image})`,
     height: `${tam}px`}} >
       {<img style={{ display: 'none' }} src={posti.image} alt={posti.imageText} />}

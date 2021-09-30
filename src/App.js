@@ -1,12 +1,11 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
-import Typography from '@material-ui/core/Typography';
+
 import Container from '@material-ui/core/Container';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import News from './components/News-paper'
-import Clouds from './clouds'
 import Divider from '@material-ui/core/Divider';
 
 const useStyles = makeStyles((theme) => ({
@@ -26,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: '#000',
   },
   containers:{
-    backgroundColor: '#f9f3tf',
+    backgroundImage: 'url(https://png.pngtree.com/background/20210714/original/pngtree-old-newspaper-vector-picture-image_1191857.jpg)',
     marginTop: '40px',
   },
 }));
