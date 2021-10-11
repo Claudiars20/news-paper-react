@@ -25,7 +25,8 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: '#000',
   },
   containers:{
-    backgroundImage: 'url(https://png.pngtree.com/background/20210714/original/pngtree-old-newspaper-vector-picture-image_1191857.jpg)',
+    /* backgroundImage: 'url(https://png.pngtree.com/background/20210714/original/pngtree-old-newspaper-vector-picture-image_1191857.jpg)', */
+    backgroundImage: 'url(https://besthqwallpapers.com/Uploads/5-5-2020/131988/thumb2-crumpled-paper-texture-white-crumpled-paper-background-paper-texture-white-paper-crumpled-paper.jpg)',
     marginTop: '40px',
   },
 }));

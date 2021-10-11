@@ -62,6 +62,7 @@ const useStyles = makeStyles((theme) => ({
     position: 'relative',
     fontSize: 30,
     margin: '20px',
+    fontFamily: 'Bebas Neue'
   },
   toolbarTitle: {
     flex: 1,

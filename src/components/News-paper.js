@@ -12,16 +12,18 @@ const useStyles = makeStyles((theme) => ({
   },
 
   main: {
-    fontSize: "450%",
-    letterSpacing: "-0.5px",
+    fontSize: "550%",
+    letterSpacing: "-1px",
     lineHeight: 1,
-    height: "25%",
+    height: "20.0%",
     textAlign: "justify",
+    fontFamily: 'Bebas Neue'
   },
   sectionTittle:{
     textDecorationLine: 'underline',
     textDecorationStyle: 'double',
-    paddingBottom: '1%'
+    paddingBottom: '1%',
+    fontFamily: 'Bebas Neue'
   },
   containers: {
     backgroundColor: "#fff",
@@ -134,8 +136,8 @@ export default function News() {
       <Grid container direction="row" spacing={6}>
         <Grid item xs={12} sm={6}>
           <Typography className={classes.main}>
-            {General.title.length > 150
-              ? (General.title.substring(0, 150) + "...").toUpperCase()
+            {General.title.length > 93
+              ? (General.title.substring(0, 93) + "...").toUpperCase()
               : General.title.toUpperCase()}
           </Typography>
           <TopMain post={General}></TopMain>
@@ -179,3 +181,4 @@ export default function News() {
     </Container>
   );
 }
+
