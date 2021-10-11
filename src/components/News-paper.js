@@ -46,90 +46,84 @@ const useStyles = makeStyles((theme) => ({
 
 const General = {
   title:
-    "Vacunación completa y prueba molecular negativa no mayor a 72 horas, son los requisitos principales para quienes ingresen al Perú.",
+    "Después de 17 meses de pandemia, Lima no registra personas fallecidas por COVID-19",
   image:
-    "https://portal.andina.pe/EDPfotografia3/Thumbnail/2021/06/24/000784528W.jpg",
-  enlace: "https://t.co/HlIkMjjjpJ",
+    "https://imagenes.elpais.com/resizer/RqdHZ9Yi1SGVGrR7eTXebyASrXs=/1200x0/filters:focal(3615x1830:3625x1840)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/CFX5TCILUZD7RJDCXQCN7PFQHI.jpg",
+  enlace: "https://t.co/i9kSsIGmAm",
 };
 
 const Politica = [
   {
     title:
-      "Cobran S/ 15.600 por instalación y viven en la capital  Congresistas de FP, Renovación, Avanza País, APP, Podemos, Somos Perú, PL y JP solicitaron el pago extra por instalación, a pesar de tener residencia en Lima y Callao.",
-    image: "https://static.dw.com/image/50684147_303.jpg",
-    enlace: "https://t.co/oFOMa7R9TC",
+      "Encuesta Ipsos: El 61% considera que el presidente Pedro Castillo no tiene liderazgo. Además, el 83% indica que Vladimir Cerrón debe alejarse del Gobierno. En Lima esta cifra crece al 90%.",
+    image: "https://image.isu.pub/210930081118-aefc7d61f2d37111f84ab0de9f879d92/jpg/page_1.jpg",
+    enlace: "https://t.co/6Yh4n49bdJ",
   },
   {
     title:
-      "Crematorio se niega a incinerar los restos de Abimael Guzmán, cabecilla terrorista de Sendero Luminoso.",
+      "Aníbal Torres sobre extradición de Alejandro Toledo: “Recibimos con satisfacción el fallo que respalda la posición del Estado peruano”",
     image:
-      "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IRKMMNJJFBASXDQMQWFPYDDUTM.jpg",
-    enlace: "https://t.co/FLseQyN0Tb",
+      "https://larepublica.pe/resizer/vDL14jFzIqoCkvSNIkz_i6uZvAY=/1200x660/top/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/E6FVBY3UYFBU3FHDBZJWBQCHUA.jpg",
+    enlace: "https://t.co/9ElcCz58CV",
   },
   {
     title:
-      " El volcán de La Palma tiene cinco bocas, la lava avanza hacia el mar y podría afectar a núcleos poblacionales.",
+      "No fue uno, ni dos, ni tres, ni cuatro, sino fueron 15 videos en la cuenta oficial de Twitter. Ministerio de Trabajo usa sus redes sociales para defender a Iber Maraví a pocos horas de la interpelación en el Congreso.",
     image:
-      " https://static3.abc.es/media/espana/2021/09/19/efe.miguelcalero-U27874245326OQs-620x349@abc.jpeg",
+      "https://e.rpp-noticias.io/xlarge/2021/09/29/125312_1150920.jpg",
     enlace:
-      " https://www.abc.es/espana/canarias/abci-volcan-palma-tiene-cinco-bocas-lava-avanza-hacia-mar-y-podria-afectar-nucleos-poblacionales-202109191833_noticia.html",
+      "https://t.co/5kh3SmfKxH",
   },
 ];
 
 const Deporte = [
   {
     title:
-      "¡TRES PUNTOS! Con un penal atajado por David de Gea , un espectacular tanto de Jesse Lingard  y un soberbio gol de Cristiano Ronaldo , Manchester United  revirtió el marcador y venció 2-1 al West Ham  por la fecha 5 de la Premier League.",
-    image:
-      "https://images.daznservices.com/di/library/DAZN_News/df/a7/cristiano-ronaldo-david-de-gea-west-ham-manchester-united-premier-league-202122_16fgxlu25cayi176ez4b4hmzjt.jpg?t=36345804&quality=60&h=450",
-    enlace: "https://t.co/6S75KvkuGM",
+      "¡LOS VICTORIANOS! ClubALoficial  es elegido como el mejor equipo de la fecha 13. El cuadro dirigido por Carlos Bustos  venció a alianzasullana_ y lidera la tabla de la Fase 2  y del acumulado. ¡Bien jugado!",
+    image:"https://pbs.twimg.com/media/E9RzNfwXEAE5Kmm.jpg",
+    enlace: "https://t.co/8gNR7bXnlP",
   },
   {
-    title:
-      "¡EQUIPAZO! Con Lionel Messi  desde el inicio, este es el once con el que el PSG  enfrentará al Lyon  en el choque correspondiente a la sexta jornada de la Ligue 1.",
-    image:
-      "https://www.semana.com/resizer/fS0aTH3iNPsXWbM3_qCeDiRFe2M=/1200x675/filters:format(jpg):quality(50)//cloudfront-us-east-1.images.arcpublishing.com/semana/XBJKDXFUO5HOFJCPGVVTATICQQ.jpg",
-    enlace: "https://t.co/0q8y5rModS",
+    title:"¡Cristiano Ronaldo, una leyenda en la Champions League!",
+    image:"https://media.gettyimages.com/photos/cristiano-ronaldo-of-manchester-united-poses-with-the-trophy-his-picture-id81190931",
+    enlace: "https://t.co/YnFK4WdJ4r",
   },
   {
-    title:
-      "Ahora ¡GL DE UNIVERSIDAD SAN MARTÍN! Martín Pérez anota de penal para su equipo y pone el primero en el Miguel Grau del Callao. clubshuancayo 0-1 Club_USMP.",
-    image: "https://pbs.twimg.com/media/E_qVagYX0AMt3ir.jpg",
-    enlace: "https://t.co/6au4i0XQoz",
+    title:"¡LA META! Tras la victoria ante el Real Madrid, Gustavo Dulanto, defensa del Sheriff Tiraspol, deja en claro que el objetivo del plantel es acceder a los octavos de final de la Champions League.",
+    image: "http://www.huaral.pe/wp-content/uploads/2021/09/gustavo-dulanto-el-lider-peruano-del-sheriff-que-hace-historia-y-suena-en-grande.jpg",
+    enlace: "https://t.co/FwK4BIB6i7",
   },
 ];
 
 const Farandula = [
   {
     title:
-      "Reinas del show Emilia Drago se aleja del programa tras romperse una costilla durante ensayos",
+      "Mariella Zanetti arremete contra Sofía Franco: “Ni un hijo debe ser motivo para continuar una relación",
     image:
-      " https://imgmedia.wapa.pe/1200x660/wapa/original/2021/09/19/6146f24573f20b62e03c3ff2.jpg",
-    enlace: "https://t.co/37wHj0vGq7",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAOXX8Q.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=493&y=201",
+    enlace: "https://t.co/OPI5mBwZK6",
   },
   {
     title:
-      "PremiosEmmy: Evan Peters gana el premio a Mejor actor de reparto en serie limitada por MareOfEasttown",
+      "Juan Víctor se cansó que Andrea San Martín y Sebastián expongan a su hija: “Por su integridad mental”",
     image:
-      "https://lasillarotarm.blob.core.windows.net/images/2021/09/19/emmys2021minutoaminutodelagalaalomejordelatelevision-focus-min0.02-0.7-983-557.jpg",
-    enlace: "https://t.co/aOYIoKS2qT",
+      "https://larepublica.pe/resizer/hstSH3hcRKLCw2gHGkBkevhvoYo=/1200x660/top/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/46FR235GSVBY5A4EPA7KH7UHFU.png",
+    enlace: "https://t.co/KitPmulj0N",
   },
 ];
 
 const Mundial = [
   {
-    title:
-      "Edith Espinal estuvo encerrada durante 40 meses en la Iglesia Menonita de Columbus, en Ohio, para evitar su deportación. Su vida fue plasmada en un documental presentado en el Festival de Cine Latino de NY.",
-    image:
-      "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMh7E8j2uQLvA5d1QIS-P-2bRrkpQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UQdufN8Tt-P-2bqmRxj-P-2f2rNCHgg-P-3d-P-3d",
-    enlace: "https://t.co/mUCMea5ZXW",
+    title:"La necesitamos. La abuela de MiyaMarcano, la joven que desapareció en Florida, dice que la familia tiene mucha fe de que la van a encontrar. Es duro para nosotros, agregó Violeta Delville.",
+    image:"https://as01.epimg.net/colombia/imagenes/2021/10/03/actualidad/1633295155_691969_1633295474_noticia_normal_recorte1.jpg",
+    enlace: "https://t.co/TygZPDpY6U",
   },
   {
     title:
-      "El secretario de Relaciones Exteriores de México, m_ebrard, anunció los acuerdos adoptados en la reunión de jefes Estado y Gobierno en la VI Cumbre de la PPT_CELAC",
+    "Momento en que la lava cae al mar. La colada de lava del volcán de La Palma, en las islas Canarias, llegó en la noche del martes al océano Atlántico. Por el momento, los gases tóxicos provocados por el contacto con el agua representan un riesgo bajo para la población.",
     image:
-      "https://i2.wp.com/estoeshoy.com/wp-content/uploads/2021/09/mexico-anuncia-los-acuerdos-adquiridos-durante-la-vi-cumbre-de-la-celac-scaled.jpg?fit=2560%2C2560&ssl=1",
-    enlace: "https://t.co/NMVotWt67i",
+    "https://images.clarin.com/2021/09/29/una-nuebe-blanca-ascieden-desde___nGHXmWeNq_720x0__1.jpg",
+    enlace: "https://t.co/nLBzOx7OmE",
   },
 ];
 
