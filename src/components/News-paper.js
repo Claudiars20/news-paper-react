@@ -55,7 +55,7 @@ const Politica = [
   {
     title:
       "Encuesta Ipsos: El 61% considera que el presidente Pedro Castillo no tiene liderazgo. Además, el 83% indica que Vladimir Cerrón debe alejarse del Gobierno. En Lima esta cifra crece al 90%.",
-    image: "https://image.isu.pub/210930081118-aefc7d61f2d37111f84ab0de9f879d92/jpg/page_1.jpg",
+    image: "https://e.rpp-noticias.io/normal/2021/09/29/001100_1150522.jpg",
     enlace: "https://t.co/6Yh4n49bdJ",
   },
   {
