@@ -49,7 +49,7 @@ const useStyles = makeStyles((theme) => ({
 const General = {
   title:
     "Después de 17 meses de pandemia, Lima no registra personas fallecidas por COVID-19",
-  image:"https://s.france24.com/media/display/6e4a3652-ae9c-11ea-b95e-005056a98db9/PERU%202%20OK.jpg",
+  image:"https://estaticos-cdn.elperiodico.com/clip/d84320a1-f65a-41b7-b42e-cf65afbdeac6_alta-libre-aspect-ratio_default_0.jpg",",
   enlace: "",
 };
 
