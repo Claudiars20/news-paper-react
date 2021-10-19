@@ -49,7 +49,7 @@ const useStyles = makeStyles((theme) => ({
 const General = {
   title:
     "Después de 17 meses de pandemia, Lima no registra personas fallecidas por COVID-19",
-  image:"https://imag.malavida.com/mvimgbig/download-fs/blockman-go-23598-3.jpg",
+  image:"https://s.france24.com/media/display/6e4a3652-ae9c-11ea-b95e-005056a98db9/PERU%202%20OK.jpg",
   enlace: "",
 };
 
@@ -79,15 +79,15 @@ const Politica = [
 
 const Deporte = [
   {
+    title:"¡ESTADÍSTICAS! Gustavo Dulanto es el jugador con más despejes (18) en la presente edición de la Champions League. Además, no pudieron regatearlo  pues goza de 100% de efectividad. Ganó el 71% de duelos terrestres y recuperó 15 balones.",
+    image: "https://larepublica.pe/resizer/1PSqsFL_a8ALrDWx1oNgUg-2-yM=/538x0/top/larepublica.pe/resizer/nTb0I43IAMX6QGLGGL6yEKkVixA=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/67WP6GWMQNDARP4RCGA7DQLQDA.jpg",
+    enlace: "https://t.co/8gNR7bXnlP",
+  },
+  {
     title:
       "LOS VICTORIANOS! ClubALoficial  es elegido como el mejor equipo de la fecha 13. El cuadro dirigido por Carlos Bustos  venció a alianzasullana_ y lidera la tabla de la Fase 2  y del acumulado. ¡Bien jugado!",
     image:"https://pbs.twimg.com/media/E9RzNfwXEAE5Kmm.jpg",
     enlace: "https://t.co/DCGUgbdBG1",
-  },
-  {
-    title:"¡LA META! Tras la victoria ante el Real Madrid, Gustavo Dulanto, defensa del Sheriff Tiraspol, deja en claro que el objetivo del plantel es acceder a los octavos de final de la Champions League.",
-    image: "http://www.huaral.pe/wp-content/uploads/2021/09/gustavo-dulanto-el-lider-peruano-del-sheriff-que-hace-historia-y-suena-en-grande.jpg",
-    enlace: "https://t.co/8gNR7bXnlP",
   },
   {
     title:"¿Estamos ante el PEOR Barcelona de los últimos tiempos? 3-0 vs Bayern  3-0 vs Benfica  0 puntos  0 goles a favor  6 goles en contra  1 tiro al arco en 2 partidos de UCL",
