@@ -56,7 +56,7 @@ const General = {
 const Politica = [
   {
     title:
-      "Anahí Durand sobre renegociar gas de Camisea: “No tengamos miedo de debatir esos temas”  La ministra de la Mujer aseveró que una renegociación de las utilidades del gas de Camisea debe darse en el “marco de la institucionalización debida”",
+      "Anahí Durand sobre renegociar gas de Camisea: “No tengamos miedo de debatir esos temas”. La ministra de la Mujer aseveró que una renegociación de las utilidades del gas de Camisea debe darse en el “marco de la institucionalización debida”",
     image:
       "https://larepublica.pe/resizer/TbRmpET8mXmKn_wcgIIbBBcUPIY=/1200x660/top/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/RD6H3JQNRRECLOCW4HGBISXRDY.png",
     enlace: "https://t.co/g87LEaxrBJ",
