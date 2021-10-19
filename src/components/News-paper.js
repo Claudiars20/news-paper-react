@@ -80,7 +80,7 @@ const Politica = [
 const Deporte = [
   {
     title:"¡ESTADÍSTICAS! Gustavo Dulanto es el jugador con más despejes (18) en la presente edición de la Champions League. Además, no pudieron regatearlo  pues goza de 100% de efectividad. Ganó el 71% de duelos terrestres y recuperó 15 balones.",
-    image: "https://larepublica.pe/resizer/1PSqsFL_a8ALrDWx1oNgUg-2-yM=/538x0/top/larepublica.pe/resizer/nTb0I43IAMX6QGLGGL6yEKkVixA=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/67WP6GWMQNDARP4RCGA7DQLQDA.jpg",
+    image: "https://elcomercio.pe/resizer/hiV296gJvyy0Y0diIh5ZdLvtfoA=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UA6D2ECZXNB77JF7D34DF4SBZQ.JPG",
     enlace: "https://t.co/8gNR7bXnlP",
   },
   {
