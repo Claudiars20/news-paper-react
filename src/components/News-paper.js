@@ -48,84 +48,89 @@ const useStyles = makeStyles((theme) => ({
 
 const General = {
   title:
-    "Después de 17 meses de pandemia, Lima no registra personas fallecidas por COVID-19",
-  image:"https://estaticos-cdn.elperiodico.com/clip/d84320a1-f65a-41b7-b42e-cf65afbdeac6_alta-libre-aspect-ratio_default_0.jpg",
+    "Enrique Ghersi y Fernán Altuve: «Renuncie, Presidente»",
+  image:"https://www.expreso.com.pe/wp-content/uploads/2021/11/exp_02-1a-luis-borja.jpg",
   enlace: "",
 };
 
 const Politica = [
   {
     title:
-      "Anahí Durand sobre renegociar gas de Camisea: “No tengamos miedo de debatir esos temas”. La ministra de la Mujer aseveró que una renegociación de las utilidades del gas de Camisea debe darse en el “marco de la institucionalización debida”",
+      "López Aliaga está estudiando una forma legal para revocar a Pedro Castillo de su cargo",
     image:
-      "https://larepublica.pe/resizer/TbRmpET8mXmKn_wcgIIbBBcUPIY=/1200x660/top/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/RD6H3JQNRRECLOCW4HGBISXRDY.png",
-    enlace: "https://t.co/g87LEaxrBJ",
+      "https://www.expreso.com.pe/wp-content/uploads/2021/11/Rafael-Lopez-Aliaga-%C2%A9-DIARIO-EXPRESO-1.jpg",
+    enlace: "",
+  },
+ {
+    title:
+      "Lucas Ghersi: «Quieren la Asamblea Constituyente porque les da poder absoluto».",
+    image:
+      "https://www.expreso.com.pe/wp-content/uploads/2021/11/Lucas-Ghersi.jpg",
+    enlace: "",
   },
   {
     title:
-      "No fue uno, ni dos, ni tres, ni cuatro, sino fueron 15 videos en la cuenta oficial de Twitter. Ministerio de Trabajo usa sus redes sociales para defender a Iber Maraví a pocos horas de la interpelación en el Congreso.",
+      "Congreso: Comisión de Ética evalúa hoy investigación contra Bermejo",
     image:
-      "https://larepublica.pe/resizer/k0H1nexcktt5Vd9_QsB0qa7RmAA=/538x0/top/larepublica.pe/resizer/y4Xfazs_iF1ykp0MOIXKm56f4kk=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SZGR4B7VWZEHJJJPWFDXDUFB7A.png",
-    enlace:
-      "https://t.co/5kh3SmfKxH",
+      "https://exitosanoticias.pe/v1/wp-content/uploads/2021/11/Guillermo-Bermejo-Comisi%C3%B3n-de-%C3%89tica-Exitosa.jpg",
+    enlace: "",
   },
-  {
-    title:
-      "Perú Libre: tres congresistas marcan asistencia, pese a que una tiene orden de captura y dos recolectan firmas en Huancayo.",
-    image: "https://www.expreso.com.pe/wp-content/uploads/2021/09/cONGRESISTA-DE-PERU-LIBRE-1.jpg",
-    enlace: "https://t.co/6Yh4n49bdJ",
-  },
+ 
 ];
 
 const Deporte = [
   {
-    title:"¡ESTADÍSTICAS! Gustavo Dulanto es el jugador con más despejes (18) en la presente edición de la Champions League. Además, no pudieron regatearlo  pues goza de 100% de efectividad. Ganó el 71% de duelos terrestres y recuperó 15 balones.",
-    image: "https://elcomercio.pe/resizer/hiV296gJvyy0Y0diIh5ZdLvtfoA=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UA6D2ECZXNB77JF7D34DF4SBZQ.JPG",
-    enlace: "https://t.co/8gNR7bXnlP",
+    title:
+      "¡Capitán Dulanto! Nuestro compatriota saldrá al verde ante el Inter de Milan como el guía del FC Sheriff. ¡Con todo, Gustavo!",
+    image:
+      "https://pbs.twimg.com/media/FDSzbI3XMAclJCc.jpg",
+    enlace: "",
   },
   {
     title:
-      "LOS VICTORIANOS! ClubALoficial  es elegido como el mejor equipo de la fecha 13. El cuadro dirigido por Carlos Bustos  venció a alianzasullana_ y lidera la tabla de la Fase 2  y del acumulado. ¡Bien jugado!",
-    image:"https://pbs.twimg.com/media/E9RzNfwXEAE5Kmm.jpg",
-    enlace: "https://t.co/DCGUgbdBG1",
+      "¡CUESTIÓN DE HORAS! Xavi Hernández ya habría llegado a un acuerdo con el FC Barcelona , y su fichaje como entrenador podría hacerse oficial mañana según indica Mundo Deportivo. Firmaría por lo que resta de esta temporada y dos más.",
+    image:
+      "https://www.fcbarcelonanoticias.com/uploads/s1/11/99/07/9/xavihernandez-alsadd18.jpeg",
+    enlace: "",
   },
-  {
-    title:"¿Estamos ante el PEOR Barcelona de los últimos tiempos? 3-0 vs Bayern  3-0 vs Benfica  0 puntos  0 goles a favor  6 goles en contra  1 tiro al arco en 2 partidos de UCL",
-    image:"https://pbs.twimg.com/media/FAexv54XIAsAbCc.jpg",
-    enlace: "https://t.co/YnFK4WdJ4r",
+   {
+    title:
+      "Con el ánimo al máximo, AlianzaLimaFF están listas para el debut en la Copa Libertadores Femenina mañana ante Deportivo Cali.",
+    image:
+      "https://cdn.futbolperuano.com/sdi/2021/10/22/alianza-lima-ya-tiene-su-fixture-completo-en-la-copa-libertadores-femenina-962749.jpg",
+    enlace: "",
   },
-  
 ];
 
 const Farandula = [
   {
     title:
-      "Juan Víctor se cansó que Andrea San Martín y Sebastián expongan a su hija: “Por su integridad mental”",
+      "‘Gato Cuba contraataca: exige a Melissa Paredes que pague el 50% de todos los gastos de su hija.",
     image:
-      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAOYF5y.img?h=0&w=600&m=6&q=60&u=t&o=f&l=f&x=557&y=279",
-    enlace: "https://t.co/KitPmulj0N",
+      "https://www.atv.pe/wp-content/uploads/2021/11/melissafinal1-700x420.jpg",
+    enlace: "",
   },
   {
     title:
-      "Mariella Zanetti arremete contra Sofía Franco: “Ni un hijo debe ser motivo para continuar una relación",
+      "Rosángela Espinoza en las grandes ligas: ¿Será el nuevo jale de la cadena Telemundo?",
     image:
-      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAOXX8Q.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=493&y=201",
-    enlace: "https://t.co/ioC4WjnEfO",
+      "https://imgmedia.libero.pe/748x396/libero/original/2021/11/03/6182ac402ac77557ee5ebc0d.webp",
+    enlace: "",
   },
 ];
 
 const Mundial = [
   {
     title:
-    "Momento en que la lava cae al mar. La colada de lava del volcán de La Palma, en las islas Canarias, llegó en la noche del martes al océano Atlántico. Por el momento, los gases tóxicos provocados por el contacto con el agua representan un riesgo bajo para la población.",
+    "COP26 Glasgow: La intrépida protesta de dos niños alemanes  Dos niños alemanes denuncian la inacción política ante la crisis climática y hacen rápel en un puente de Glasgow para llamar la atención de los líderes mundiales presentes en la Cumbre del Clima.",
     image:
-    "https://fotografias.lasexta.com/clipping/cmsimages02/2021/09/29/2F2C80DE-F4F1-4384-8E90-E645B6640B39/98.jpg?crop=1250,703,x0,y116&width=1900&height=1069&optimize=low&format=webply",
-    enlace: "https://t.co/nLBzOx7OmE",
+    "https://cloudfront-us-east-1.images.arcpublishing.com/semana/LZ5ML7SC6ZH2JJC45LIWEWYYYY.jpg",
+    enlace: "",
   },
   {
-    title:"Varios ensayos clínicos han mostrado que la combinación de vacunas de covid-19 no sólo es posible, sino que en muchos casos es hasta recomendable y podría ofrecer una mejor protección contra el coronavirus y, particularmente, contra las nuevas variantes.",
-    image:"https://ichef.bbci.co.uk/news/640/cpsprodpb/184AB/production/_119899499_1.jpg",
-    enlace: "https://t.co/7TMLWosRrV",
+    title:"El republicano Glenn Youngkin vence al demócrata Terry McAuliffe en las elecciones para gobernador en Virginia. Candidatos a la gobernación de Nueva Jersey están casi empatados.",
+    image:"https://www.democracynow.org/images/headlines/04/60204/quarter_hd/H1-youngkin.jpg",
+    enlace: "",
   },
 ];
 
