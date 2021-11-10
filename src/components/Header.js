@@ -130,7 +130,7 @@ export default function BackToTop(props) {
             <CloudIcon />
           </IconButton>
             <TwitterIcon className={classes.twitter}/>
-          <Typography variant="h6" className={classes.title}>Twitter News Bot</Typography>
+          <Typography variant="h6" className={classes.title}>Twitter News Bot - 10/11/2021</Typography>
         </Toolbar>
       </AppBar>
       <Toolbar id="back-to-top-anchor" />
