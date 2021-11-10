@@ -72,8 +72,8 @@ const Politica = [
     title:
       "La represión policial causó la muerte de IntiSotelo y BryanPintado, además de decenas de heridos que hasta hoy no logran justicia. En su memoria, colectivos ciudadanos convocan para exigir justicia y detener la impunidad.",
     image:
-      "https://exitosanoticias.pe/v1/wp-content/uploads/2021/11/Guillermo-Bermejo-Comisi%C3%B3n-de-%C3%89tica-Exitosa.jpg",
-    enlace: "https://medialab.unmsm.edu.pe/chiqaqnews/wp-content/uploads/2021/01/LHDR3TM3OJD2FETQKYKZQEZ3SE.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe85ra95qIdMRgaFbgeXcimKYjMa_kHlb0miRPZ9rMMgtF2PqUvRFbCBSu9gfpWrZWnfo&usqp=CAU",
+    enlace: "https://pbs.twimg.com/media/E6WkkhsXMAQVYgG.jpg",
   },
  
 ];
