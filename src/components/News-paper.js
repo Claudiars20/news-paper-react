@@ -48,32 +48,32 @@ const useStyles = makeStyles((theme) => ({
 
 const General = {
   title:
-    "Enrique Ghersi y Fernán Altuve: «Renuncie, Presidente»",
-  image:"https://www.expreso.com.pe/wp-content/uploads/2021/11/exp_02-1a-luis-borja.jpg",
+    "Primeras imágenes del zorro Run Run luego de ser trasladado al Parque de las Leyendas.",
+  image:"https://www.expreso.com.pe/wp-content/uploads/2021/11/zorro-Run-Run.jpg",
   enlace: "",
 };
 
 const Politica = [
   {
     title:
-      "López Aliaga está estudiando una forma legal para revocar a Pedro Castillo de su cargo",
+      "José Vizcarra reveló que el mismo presidente le pidió interceder en los ascensos del Ejército.",
     image:
-      "https://www.expreso.com.pe/wp-content/uploads/2021/11/Rafael-Lopez-Aliaga-%C2%A9-DIARIO-EXPRESO-1.jpg",
+      "https://www.expreso.com.pe/wp-content/uploads/2021/11/Jose-Vizcarra-1.jpg",
     enlace: "",
   },
  {
     title:
-      "Lucas Ghersi: «Quieren la Asamblea Constituyente porque les da poder absoluto».",
+      "La declaración de Roberto Chiabra, congresista de Alianza para el Progreso (APP) sobre que el Perú es el único país en la región que no ha vuelto a las clases presenciales” es falsa.",
     image:
-      "https://www.expreso.com.pe/wp-content/uploads/2021/11/Lucas-Ghersi.jpg",
+      "https://www.expreso.com.pe/wp-content/uploads/2021/08/Roberto-Chiabra-DIARIO-EXPRESO.jpg",
     enlace: "",
   },
   {
     title:
-      "Congreso: Comisión de Ética evalúa hoy investigación contra Bermejo",
+      "La represión policial causó la muerte de IntiSotelo y BryanPintado, además de decenas de heridos que hasta hoy no logran justicia. En su memoria, colectivos ciudadanos convocan para exigir justicia y detener la impunidad.",
     image:
       "https://exitosanoticias.pe/v1/wp-content/uploads/2021/11/Guillermo-Bermejo-Comisi%C3%B3n-de-%C3%89tica-Exitosa.jpg",
-    enlace: "",
+    enlace: "https://medialab.unmsm.edu.pe/chiqaqnews/wp-content/uploads/2021/01/LHDR3TM3OJD2FETQKYKZQEZ3SE.jpg",
   },
  
 ];
@@ -81,23 +81,23 @@ const Politica = [
 const Deporte = [
   {
     title:
-      "¡Capitán Dulanto! Nuestro compatriota saldrá al verde ante el Inter de Milan como el guía del FC Sheriff. ¡Con todo, Gustavo!",
+      "Si se repite lo sucedido en el partido contra Chile, la selección peruana corre el riesgo de jugar sin público en el Estadio Nacional. Si ves o escuchas insultos o cánticos discriminatorios contra el equipo rival, impídelo.",
     image:
-      "https://pbs.twimg.com/media/FDSzbI3XMAclJCc.jpg",
+      "https://imgmedia.libero.pe/748x396/libero/original/2021/09/09/613ab5a4c4286262464cc05c.webp",
     enlace: "",
   },
   {
     title:
-      "¡CUESTIÓN DE HORAS! Xavi Hernández ya habría llegado a un acuerdo con el FC Barcelona , y su fichaje como entrenador podría hacerse oficial mañana según indica Mundo Deportivo. Firmaría por lo que resta de esta temporada y dos más.",
+      "¡PIDE CAMBIO!  Rio Ferdinand , exfutbolista del Manchester United  sobre el entrenador  Ole Gunnar Solskjaer : No hay filosofía ni identidad en el estilo de juego, que debería ser tarea del técnico. Podría ser el momento para dar un paso al costado. ",
     image:
-      "https://www.fcbarcelonanoticias.com/uploads/s1/11/99/07/9/xavihernandez-alsadd18.jpeg",
+      "https://cdn.images.express.co.uk/img/dynamic/67/590x/480643405-470445.jpg",
     enlace: "",
   },
    {
     title:
-      "Con el ánimo al máximo, AlianzaLimaFF están listas para el debut en la Copa Libertadores Femenina mañana ante Deportivo Cali.",
+      "¡RENOVACIÓN! De esta forma, Hernán Novick  anunció la extensión de su contrato con Universitario  hasta el año 2023. El uruguayo fue el mejor fichaje crema esta temporada y buscará ser campeón de la LIGA1BETSSONXGOLPERU 2022",
     image:
-      "https://cdn.futbolperuano.com/sdi/2021/10/22/alianza-lima-ya-tiene-su-fixture-completo-en-la-copa-libertadores-femenina-962749.jpg",
+      "https://universitario.pe/media/images/post/foto01_nota_NOVICK.jpg",
     enlace: "",
   },
 ];
@@ -105,16 +105,16 @@ const Deporte = [
 const Farandula = [
   {
     title:
-      "‘Gato Cuba contraataca: exige a Melissa Paredes que pague el 50% de todos los gastos de su hija.",
+      "Magaly Medina: Deyvis Orosco y Cassandra la eligen como madrina de su primer bebé.",
     image:
-      "https://www.atv.pe/wp-content/uploads/2021/11/melissafinal1-700x420.jpg",
+      "https://imgmedia.wapa.pe/1200x660/wapa/migration/imagen/2019/01/12/noticia-1547311015-magaly-medina-deyvis-orosco-cassandra-sanchez.png",
     enlace: "",
   },
   {
     title:
-      "Rosángela Espinoza en las grandes ligas: ¿Será el nuevo jale de la cadena Telemundo?",
+      "Padre del ‘Gato Cuba destruye a Melissa Paredes tras conciliación: “La única culpable es ella por infidelidad”",
     image:
-      "https://imgmedia.libero.pe/748x396/libero/original/2021/11/03/6182ac402ac77557ee5ebc0d.webp",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQvWvl.img?h=328&w=624&m=6&q=60&o=f&l=f&x=477&y=213",
     enlace: "",
   },
 ];
@@ -122,14 +122,14 @@ const Farandula = [
 const Mundial = [
   {
     title:
-    "COP26 Glasgow: La intrépida protesta de dos niños alemanes  Dos niños alemanes denuncian la inacción política ante la crisis climática y hacen rápel en un puente de Glasgow para llamar la atención de los líderes mundiales presentes en la Cumbre del Clima.",
+    "Diputados de Chile aprueban acusación constitucional contra Sebastián Piñera. La acusación pasará al Senado.",
     image:
-    "https://cloudfront-us-east-1.images.arcpublishing.com/semana/LZ5ML7SC6ZH2JJC45LIWEWYYYY.jpg",
+    "https://media.elmostrador.cl/2021/10/22b6bb00-sebastian-pinera-aton-1-scaled-1-1024x683-1-700x467-1.jpg",
     enlace: "",
   },
   {
-    title:"El republicano Glenn Youngkin vence al demócrata Terry McAuliffe en las elecciones para gobernador en Virginia. Candidatos a la gobernación de Nueva Jersey están casi empatados.",
-    image:"https://www.democracynow.org/images/headlines/04/60204/quarter_hd/H1-youngkin.jpg",
+    title:"Amenaza de nueva crisis migratoria en Europa  Hasta 4.000 migrantes se aglomeran en la frontera de Bielorrusia intentando cruzar a Polonia  Bruselas acusa al régimen de Lukashenko de promover la llegada en avión de migrantes de Oriente Medio en represalia a las sanciones.",
+    image:"https://static.dw.com/image/59768891_303.jpg",
     enlace: "",
   },
 ];
