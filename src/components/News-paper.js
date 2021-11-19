@@ -48,32 +48,32 @@ const useStyles = makeStyles((theme) => ({
 
 const General = {
   title:
-    "Primeras imágenes del zorro Run Run luego de ser trasladado al Parque de las Leyendas.",
-  image:"https://www.expreso.com.pe/wp-content/uploads/2021/11/zorro-Run-Run.jpg",
+    "La foto de la Eliminatoria: ¡TRIUNFAZO HISTÓRICO DE PERÚ EN CARACAS Y NOS METEMOS EN LA PELEA POR EL MUNDIAL, CARAJO! ¡17 PUNTOS Y ESTAMOS CON MÁS VIDA QUE NUNCA!",
+  image:"https://pbs.twimg.com/media/FEWY2pIX0AIzcTF.jpg:large",
   enlace: "",
 };
 
 const Politica = [
   {
     title:
-      "José Vizcarra reveló que el mismo presidente le pidió interceder en los ascensos del Ejército.",
+      "Lanzan aplicación móvil para reportar negación de acceso al AbortoTerapéutico. En el primer día de funcionamiento, la herramienta digital ya recibió una queja contra un centro de salud que negó este derecho a una víctima de violación sexual",
     image:
-      "https://www.expreso.com.pe/wp-content/uploads/2021/11/Jose-Vizcarra-1.jpg",
+      "https://wayka.pe/wp-content/uploads/2021/11/APP-ABORTO.png",
     enlace: "",
   },
  {
     title:
-      "La declaración de Roberto Chiabra, congresista de Alianza para el Progreso (APP) sobre que el Perú es el único país en la región que no ha vuelto a las clases presenciales” es falsa.",
+      "Personas con dos dosis tendrán descuentos de 10% en galerías de Gamarra   El alcalde de La Victoria, Luis Gutiérrez, alista un plan para que solo vacunados ingresen al emporio.",
     image:
-      "https://www.expreso.com.pe/wp-content/uploads/2021/08/Roberto-Chiabra-DIARIO-EXPRESO.jpg",
+      "https://portal.andina.pe/EDPfotografia3/Thumbnail/2020/12/24/000736512W.jpg",
     enlace: "",
   },
   {
     title:
-      "La represión policial causó la muerte de IntiSotelo y BryanPintado, además de decenas de heridos que hasta hoy no logran justicia. En su memoria, colectivos ciudadanos convocan para exigir justicia y detener la impunidad.",
+      "Ley RunRun: Alertan que predictamen de Comisión de Justicia del Congreso debilita lucha contra tráfico de animales silvestres.",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe85ra95qIdMRgaFbgeXcimKYjMa_kHlb0miRPZ9rMMgtF2PqUvRFbCBSu9gfpWrZWnfo&usqp=CAU",
-    enlace: "https://pbs.twimg.com/media/E6WkkhsXMAQVYgG.jpg",
+      "https://wayka.pe/wp-content/uploads/2021/11/LEY-RUN-RUN.png",
+    enlace: "",
   },
  
 ];
@@ -81,23 +81,23 @@ const Politica = [
 const Deporte = [
   {
     title:
-      "Si se repite lo sucedido en el partido contra Chile, la selección peruana corre el riesgo de jugar sin público en el Estadio Nacional. Si ves o escuchas insultos o cánticos discriminatorios contra el equipo rival, impídelo.",
+      "¡GRAN GESTO! Los jugadores que integran la Selección de Serbia  decidieron donar su premio económico tras haber logrado la clasificación al Mundial de Qatar 2022 . El dinero servirá para apoyar en el tratamiento a niños enfermos en su país.",
     image:
       "https://imgmedia.libero.pe/748x396/libero/original/2021/09/09/613ab5a4c4286262464cc05c.webp",
     enlace: "",
   },
   {
     title:
-      "¡PIDE CAMBIO!  Rio Ferdinand , exfutbolista del Manchester United  sobre el entrenador  Ole Gunnar Solskjaer : No hay filosofía ni identidad en el estilo de juego, que debería ser tarea del técnico. Podría ser el momento para dar un paso al costado. ",
+      "¡Final en La Paz! Derrota durísima de la selección de Uruguay en la altura y Bolivia sigue soñando con Qatar.   Bolivia  3 – 0  Uruguay",
     image:
-      "https://cdn.images.express.co.uk/img/dynamic/67/590x/480643405-470445.jpg",
+      "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2021/11/16/6194317c1af86.r_d.995-467-2227.jpeg",
     enlace: "",
   },
    {
     title:
-      "¡RENOVACIÓN! De esta forma, Hernán Novick  anunció la extensión de su contrato con Universitario  hasta el año 2023. El uruguayo fue el mejor fichaje crema esta temporada y buscará ser campeón de la LIGA1BETSSONXGOLPERU 2022",
+      "Argentina  0-0  Brasil",
     image:
-      "https://universitario.pe/media/images/post/foto01_nota_NOVICK.jpg",
+      "https://movistardeportes.pe/wp-content/uploads/sites/2/2021/09/Nuevo-proyecto-9-1.jpg",
     enlace: "",
   },
 ];
@@ -105,16 +105,16 @@ const Deporte = [
 const Farandula = [
   {
     title:
-      "Magaly Medina: Deyvis Orosco y Cassandra la eligen como madrina de su primer bebé.",
+      "Susy Díaz lanzó una dieta en homenaje a Luciana Fuster, tras ser ampayada besándose con Patricio Parodi por las cámaras de Magaly Tv La Firme",
     image:
-      "https://imgmedia.wapa.pe/1200x660/wapa/migration/imagen/2019/01/12/noticia-1547311015-magaly-medina-deyvis-orosco-cassandra-sanchez.png",
+      "https://wapa.cronosmedia.glr.pe/original/2021/11/16/619411cc3e9f1a11df752366.jpg",
     enlace: "",
   },
   {
     title:
-      "Padre del ‘Gato Cuba destruye a Melissa Paredes tras conciliación: “La única culpable es ella por infidelidad”",
+      "Giuliana Rengifo: “Tuve una relación con Alfredo Zambrano de un mes y medio”",
     image:
-      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQvWvl.img?h=328&w=624&m=6&q=60&o=f&l=f&x=477&y=213",
+      "https://www.extra.com.pe/wp-content/uploads/2021/11/Giuliana-Rengifo-Alfredo-Zambrano-.jpg",
     enlace: "",
   },
 ];
@@ -122,14 +122,14 @@ const Farandula = [
 const Mundial = [
   {
     title:
-    "Diputados de Chile aprueban acusación constitucional contra Sebastián Piñera. La acusación pasará al Senado.",
+    "El Mencho: detienen en México a Rosalinda González Valencia, esposa del líder del Cartel Jalisco Nueva Generación",
     image:
-    "https://media.elmostrador.cl/2021/10/22b6bb00-sebastian-pinera-aton-1-scaled-1-1024x683-1-700x467-1.jpg",
+    "https://cdn.cnn.com/cnnnext/dam/assets/211116170847-arresto-rosalinda-gonzalez-valencia-nemesio-oseguera-cervantes-mencho-cjng-live-belen-zapata-redaccion-mexico-story-tablet.jpg",
     enlace: "",
   },
   {
-    title:"Amenaza de nueva crisis migratoria en Europa  Hasta 4.000 migrantes se aglomeran en la frontera de Bielorrusia intentando cruzar a Polonia  Bruselas acusa al régimen de Lukashenko de promover la llegada en avión de migrantes de Oriente Medio en represalia a las sanciones.",
-    image:"https://static.dw.com/image/59768891_303.jpg",
+    title:"Última Hora  Senado de Chile rechaza acusación a Piñera  La oposición no logró conseguir el quórum necesario para destituir al mandatario Sebastián Piñera. La acusación fue rechazada por al menos 14 senadores, de un total de 43. La oposición necesitaba 29 votos favorables.",
+    image:"https://pbs.twimg.com/media/FEWr0GUXEAMBC88.jpg",
     enlace: "",
   },
 ];
