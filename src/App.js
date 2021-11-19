@@ -39,7 +39,7 @@ export default function Blog() {
     <React.Fragment className={classes.main}>
       <CssBaseline />
       <Container maxWidth="xl" className={classes.containers}>
-        <Header title="Twitter's News Bot - 18/11/2021"/>
+        <Header title="Twitter's News Bot - 17/11/2021"/>
       <News></News>
       <div className={classes.name}>
       <Divider />
